@@ -50,7 +50,13 @@ Saya tertarik dengan berbagai teknologi AI dan Machine Learning, termasuk:
 - ### [CAINode](https://github.com/kevinadhaikal/CAINode)
   **Library Wrapper untuk berinteraksi dengan AI di Character.AI**.  
   Dengan CAINode, kalian bisa membuat versi portingan sendiri dari Character.AI, baik itu untuk website, mobile, desktop, atau proyek lainnya. Bisa bikin bot AI yang bisa diajak ngobrol, mirip pengalaman di Character.AI.
-
+- ### [AutoShutdown](https://github.com/KevinAdhaikal/AutoShutdown)  
+  **A Windows automation project** yang memungkinkan komputer mati secara otomatis setelah periode **tidak ada aktivitas** (keyboard & mouse idle).  
+  Sebelum shutdown, pengguna akan diberikan **peringatan** sehingga bisa menyimpan pekerjaan terlebih dahulu.  
+  Cocok untuk menghemat listrik atau menjaga keamanan PC saat tidak digunakan.
+- ### [College Project](https://github.com/KevinAdhaikal/college_project)  
+  Ini adalah kumpulan proyek yang saya kerjakan selama kuliah. Bisa dibilang, setiap semester, saya ada “tugas akhir” dengan tema yang berbeda. dan semua yang kerjakan tugas akhirnya, saya masukin di sini.
+  
 ## 🎮 Hobbies / Fun
 - Retro games & coding  
 - Music covers & production  
