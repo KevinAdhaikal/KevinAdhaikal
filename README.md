@@ -43,7 +43,7 @@ Saya tertarik dengan berbagai teknologi AI dan Machine Learning, termasuk:
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 🚀 Projects
-- ### [KasirKu](https://kasirku.duckdns.org)
+- ### [KasirKu](https://kasirku.adhaikalk.workers.dev)
   **Lightweight POS (Point of Sale) system** untuk memudahkan pemilik usaha mengelola transaksi kasir.  
   Fitur utama: realtime data, SPA, open-source, cocok untuk low-end hardware.
 
